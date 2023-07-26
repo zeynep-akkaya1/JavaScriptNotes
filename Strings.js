@@ -85,6 +85,12 @@ The indexOf() method cannot take powerful search values (regular expressions).
 // .matchAll()
 "Ankara".matchAll("a"); // Object [RegExp String Iterator] {}
 
+// Template Literals / string interpolation
+let firstName = "Zeynep";
+let lastName = "Akkaya";
+`I am ${firstName} ${lastName}!`;
+// I am Zeynep Akkaya
+
 // backslash escape character \
 
 ("It's alright.");
