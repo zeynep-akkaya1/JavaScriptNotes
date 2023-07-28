@@ -103,3 +103,5 @@ let lastName = "Akkaya";
 \t Horizontal Tabulator
 \v Vertical Tabulator
 */
+
+"Hey! ".repeat(3); // Hey! Hey! Hey!
